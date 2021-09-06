@@ -14,7 +14,7 @@ it
 make dev
 ```
 
-And the following one for cleaning the build files, and uninstall if from your
+And the following one for cleaning the build files, and uninstall it from your
 environment:
 
 ```bash
@@ -40,8 +40,3 @@ You can start computing the modularity of one of the provided test formulas:
 >>> print(q)
 0.3163265306122447
 ```
-
-The VIG graph corresponding to the formula:
-
-![grap.cnf][misc/graph.png]
-
